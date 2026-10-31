@@ -1,3 +1,4 @@
+![Anurag Data Analytics Portfolio](assets/Portfolio_Banner.png)
 # 📊 Anurag | Data Analyst Internship Portfolio
 
 ## ApexPlanet Software Pvt. Ltd. – Data Analytics Internship
