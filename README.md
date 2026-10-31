@@ -1,4 +1,4 @@
-asstes/Portfolio_Banner.png
+![Anurag-DataAnalyst-Intership-Portfolio](assets/Portfolio_Banner.png)
 # 📊 Anurag | Data Analyst Internship Portfolio
 
 ## ApexPlanet Software Pvt. Ltd. – Data Analytics Internship
