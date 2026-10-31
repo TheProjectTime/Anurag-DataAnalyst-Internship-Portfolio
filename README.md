@@ -152,9 +152,7 @@ Throughout this internship, I gained practical experience in:
 
 ## 📂 Final Presentation
 
-**Final Internship Presentation:** [Add your PowerPoint file or presentation link here]
-
-**Portfolio Walkthrough Video:** [Add your LinkedIn video link here]
+[View Final Internship Presentation](presentation/Final_Internship_Presentation.pptx)
 
 ---
 
