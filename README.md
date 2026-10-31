@@ -78,7 +78,7 @@ This internship provided an opportunity to apply my knowledge through practical 
 - Creating an interactive dashboard using Microsoft Power BI.
 - Presenting business findings through visualizations.
 
-🔗 **GitHub Repository:** [ApexPlanet Task 3](https://github.com/TheProjectTime/ApexPlanet-Taks-3)
+🔗 **GitHub Repository:** [ApexPlanet Task 3](https://github.com/TheProjectTime/ApexPlanet-Task-3)
 
 ### 4. Task 4 – Data Storytelling & Statistical Validation
 
