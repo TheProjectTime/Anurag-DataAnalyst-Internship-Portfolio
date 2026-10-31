@@ -172,5 +172,5 @@ I sincerely thank **ApexPlanet Software Pvt. Ltd.** for providing me with this i
 
 ---
 
-**Created by:** Anurag  
+**Created by:** Anurag Kr. Rana 
 **GitHub:** [TheProjectTime](https://github.com/TheProjectTime)
